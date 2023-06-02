@@ -20,4 +20,4 @@ My Cart :
 ```bash
 docker-compose up -d
 ```
-4. Access to the app from the url using through a browser: http://127.0.0.1
+1. Access the app through a browser from the url: http://127.0.0.1
